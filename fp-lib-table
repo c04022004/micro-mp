@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name micro-mp)(type KiCad)(uri ${KIPRJMOD}/micro-mp.pretty)(options "")(descr ""))
+  (lib (name keebio-parts)(type KiCad)(uri ${KIPRJMOD}/keebio-parts.pretty)(options "")(descr "")(disabled))
+  (lib (name Aesthetics)(type KiCad)(uri ${KIPRJMOD}/../libs/sparkfun-footprints/Aesthetics.pretty)(options "")(descr "")(disabled))
+  (lib (name Connectors)(type KiCad)(uri ${KIPRJMOD}/../libs/sparkfun-footprints/Connectors.pretty)(options "")(descr "")(disabled))
+  (lib (name Switches)(type KiCad)(uri ${KIPRJMOD}/../libs/sparkfun-footprints/Switches.pretty)(options "")(descr ""))
+  (lib (name c04-parts)(type KiCad)(uri ${KIPRJMOD}/../libs/c04-parts.pretty)(options "")(descr "")(disabled))
+  (lib (name digikey-footprints)(type KiCad)(uri ${KIPRJMOD}/../libs/digikey-footprints.pretty)(options "")(descr ""))
+)

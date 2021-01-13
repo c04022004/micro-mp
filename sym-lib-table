@@ -1,0 +1,12 @@
+(sym_lib_table
+  (lib (name micro-mp)(type Legacy)(uri ${KIPRJMOD}/micro-mp.lib)(options "")(descr ""))
+  (lib (name arduino)(type Legacy)(uri ${KIPRJMOD}/arduino.lib)(options "")(descr ""))
+  (lib (name keebio)(type Legacy)(uri ${KIPRJMOD}/keebio-components/keebio.lib)(options "")(descr ""))
+  (lib (name dk_Embedded-Microcontrollers)(type Legacy)(uri ${KIPRJMOD}/../libs/digikey-symbols/dk_Embedded-Microcontrollers.lib)(options "")(descr ""))
+  (lib (name dk_Interface-Controllers)(type Legacy)(uri ${KIPRJMOD}/../libs/digikey-symbols/dk_Interface-Controllers.lib)(options "")(descr ""))
+  (lib (name dk_Interface-I-O-Expanders)(type Legacy)(uri ${KIPRJMOD}/../libs/digikey-symbols/dk_Interface-I-O-Expanders.lib)(options "")(descr ""))
+  (lib (name dk_Interface-Modules)(type Legacy)(uri ${KIPRJMOD}/../libs/digikey-symbols/dk_Interface-Modules.lib)(options "")(descr ""))
+  (lib (name dk_Optoisolators-Logic-Output)(type Legacy)(uri ${KIPRJMOD}/../libs/digikey-symbols/dk_Optoisolators-Logic-Output.lib)(options "")(descr ""))
+  (lib (name dk_Optoisolators-Transistor-Photovoltaic-Output)(type Legacy)(uri ${KIPRJMOD}/../libs/digikey-symbols/dk_Optoisolators-Transistor-Photovoltaic-Output.lib)(options "")(descr ""))
+  (lib (name dk_Optoisolators-Triac-SCR-Output)(type Legacy)(uri ${KIPRJMOD}/../libs/digikey-symbols/dk_Optoisolators-Triac-SCR-Output.lib)(options "")(descr ""))
+)
